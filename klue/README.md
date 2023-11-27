@@ -44,8 +44,8 @@ For example, when tasked with distinguishing and classifying cells from eight di
 
 klue is able to not only extract unique contigs from a complex mixture of multiple strains but also to classify them with high reliability, thus proving the tool's advanced capability in managing and interpreting intricate genomic datasets.
 
-<img src="https://github.com/mboffelli/public/blob/main/klue/results/ABCD.png" width="600" height="400">
-<img src="https://github.com/mboffelli/public/blob/main/klue/results/EFGH.png" width="600" height="400">
+<img src="https://github.com/mboffelli/public/blob/main/klue/results/ABCD.jpg" width="600" height="400">
+<img src="https://github.com/mboffelli/public/blob/main/klue/results/EFGH.jpg" width="600" height="400">
 
 
 ## Features
