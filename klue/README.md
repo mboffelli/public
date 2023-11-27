@@ -44,15 +44,8 @@ For example, when tasked with distinguishing and classifying cells from eight di
 
 klue is able to not only extract unique contigs from a complex mixture of multiple strains but also to classify them with high reliability, thus proving the tool's advanced capability in managing and interpreting intricate genomic datasets.
 
-<img src="https://github.com/mboffelli/public/blob/main/klue/results/c57bl6j.png" width="400" height="400">
-<img src="https://github.com/mboffelli/public/blob/main/klue/results/129s1svimj.png" width="400" height="400">
-<img src="https://github.com/mboffelli/public/blob/main/klue/results/nzohlltj.png" width="400" height="400">
-<img src="https://github.com/mboffelli/public/blob/main/klue/results/casteij.png" width="400" height="400">
-<img src="https://github.com/mboffelli/public/blob/main/klue/results/pwkphj.png" width="400" height="400">
-<img src="https://github.com/mboffelli/public/blob/main/klue/results/aj.png" width="400" height="400">
-<img src="https://github.com/mboffelli/public/blob/main/klue/results/nodshiltj.png" width="400" height="400">
-<img src="https://github.com/mboffelli/public/blob/main/klue/results/wsbeij.png" width="400" height="400">
-
+<img src="https://github.com/mboffelli/public/blob/main/klue/results/ABCD.png" width="600" height="400">
+<img src="https://github.com/mboffelli/public/blob/main/klue/results/EFGH.png" width="600" height="400">
 
 
 ## Features
