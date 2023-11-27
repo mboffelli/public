@@ -40,6 +40,21 @@ Use tools like kallisto to index the contigs and map your sequencing reads for s
 
 The results from KLUE (a FASTA file containing extracted contigs) will allow you to classify the cell identity based on the predominant strain indicated by the UMIs.
 
+For example, when tasked with distinguishing and classifying cells from eight distinct and genetically varied inbred mouse strains, klue performed with an impressive precision that was on par with pairwise comparisons. The plots below highlight klue's robustness, showcasing that it maintains high accuracy in identifying unique contigs across all eight strains, surpassing a 10<sup>2</sup> UMI threshold. Such efficacy in multi-strain classification is not common in genomic analysis tools, marking a significant step forward in the field.
+
+klue is able to not only extract unique contigs from a complex mixture of multiple strains but also to classify them with high reliability, thus proving the tool's advanced capability in managing and interpreting intricate genomic datasets.
+
+<img src="https://github.com/mboffelli/public/blob/main/klue/results/c57bl6j.png" width="400" height="400">
+<img src="https://github.com/mboffelli/public/blob/main/klue/results/129s1svimj.png" width="400" height="400">
+<img src="https://github.com/mboffelli/public/blob/main/klue/results/nzohlltj.png" width="400" height="400">
+<img src="https://github.com/mboffelli/public/blob/main/klue/results/casteij.png" width="400" height="400">
+<img src="https://github.com/mboffelli/public/blob/main/klue/results/pwkphj.png" width="400" height="400">
+<img src="https://github.com/mboffelli/public/blob/main/klue/results/aj.png" width="400" height="400">
+<img src="https://github.com/mboffelli/public/blob/main/klue/results/nodshiltj.png" width="400" height="400">
+<img src="https://github.com/mboffelli/public/blob/main/klue/results/wsbeij.png" width="400" height="400">
+
+
+
 ## Features
 
 - **Graph Construction**: Builds colored de Bruijn graphs for unique and shared sequence identification.
