@@ -26,6 +26,6 @@ Microarrays, 10x, bulk RNA-seq, CEL-Seq, SPLiT-seq, Smart-seq3, are different te
 5. `bulk.ipynb` - Bulk RNA-seq data examination using [specific dataset].
 6. `celseq.ipynb` - Celseq method applied to [specific dataset].
 
-Each notebook, with its histograms and scatterplots, illuminates various aspects of RNA sequencing data. Additionally, your analysis quantifies length dependence with microarray data, an important aspect for comprehensive understanding.
+Each notebook, with its histograms and scatterplots, illuminates various aspects of RNA sequencing data. 
 
 The conclusion that all methods and technologies exhibit some level of length bias is significant. It not only underscores the inherent challenges in RNA sequencing but also highlights the necessity for continual methodological improvements and careful data interpretation.
