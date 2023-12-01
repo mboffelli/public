@@ -47,6 +47,7 @@ klue is able to not only extract unique contigs from a complex mixture of multip
 These results may also be found in https://github.com/mboffelli/public/tree/main/klue/results.
 <img src="https://github.com/mboffelli/public/blob/main/klue/results/ABCD.jpg">
 <img src="https://github.com/mboffelli/public/blob/main/klue/results/EFGH.jpg">
+**UMI Count Threshold Analysis Across Mouse Strains.** These plots depict the accuracy of cell identification versus the total UMI count threshold for eight inbred mouse strains. As the UMI count increases, the identification accuracy rises to meet or exceed the target accuracy (0.9, red dashed line) before stabilizing, highlighting the optimal UMI count threshold for accurate cell identification. The x-axis is on a logarithmic scale to cover the broad range of UMI counts.
 
 
 ## Features
